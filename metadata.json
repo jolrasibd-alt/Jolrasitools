@@ -1,0 +1,8 @@
+{
+  "name": "Ecomnexora",
+  "description": "Ecomnexora is a comprehensive suite of AI-powered tools designed for e-commerce marketing in Bangladesh. It includes a Post Generator, Ad Designer, Background Remover, AI Fashion Studio, and more, all tailored for the Bengali market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
